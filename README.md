@@ -8,13 +8,13 @@
 
 ## 1. Basic Analysis (Quick Check)
 
-### 1.1 Preparation (10 Min)
+### 1.1 Preparation
 - [ ] Record domain and website scope
 - [ ] Identify main functionalities
 - [ ] Check sitemap access
 - [ ] Check robots.txt
 
-### 1.2 Quick Check Main Pages (30 Min)
+### 1.2 Quick Check Main Pages
 - [ ] Homepage
 - [ ] Main navigation
 - [ ] Contact page
@@ -22,7 +22,7 @@
 - [ ] If available: One form
 - [ ] If available: One transaction page
 
-### 1.3 Technical Basic Checks (20 Min)
+### 1.3 Technical Basic Checks 
 - [ ] Lighthouse Accessibility Score of main page
 - [ ] HTML validation of main page
 - [ ] Responsive design check (3 breakpoints)
