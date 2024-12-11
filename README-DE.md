@@ -8,13 +8,13 @@
 
 ## 1. Grundlegende Analyse (Quick Check)
 
-### 1.1 Vorbereitung (10 Min)
+### 1.1 Vorbereitung 
 - [ ] Domain und Umfang der Website erfassen
 - [ ] Hauptfunktionen identifizieren
 - [ ] Sitemapzugriff prüfen
 - [ ] robots.txt prüfen
 
-### 1.2 Schnellcheck Hauptseiten (30 Min)
+### 1.2 Schnellcheck Hauptseiten 
 - [ ] Homepage
 - [ ] Hauptnavigation
 - [ ] Kontaktseite
@@ -22,7 +22,7 @@
 - [ ] Wenn vorhanden: Ein Formular
 - [ ] Wenn vorhanden: Eine Transaktionsseite
 
-### 1.3 Technische Basischecks (20 Min)
+### 1.3 Technische Basischecks
 - [ ] Lighthouse Accessibility Score der Hauptseite
 - [ ] HTML-Validierung der Hauptseite
 - [ ] Responsive Design Check (3 Breakpoints)
